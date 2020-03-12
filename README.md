@@ -1,18 +1,18 @@
-# Hello I am Ronald Looi (u15226532)\
+# Hello I am Kevin Huang (u15026681)\
 
 # Current Position:
-Full time Student and member of the integration group for Team Omega.
+Full time Student and member and leader of the integration group for Team Omega.
 
 # Interests:
 Playing video games, reading, exercising, programming, cooking.
 
 # Skills:
-Java, C++, LAMP stack front end dev and Angular
+Java, C++, MongoDB, NodeJS, LAMP stack, and Cobol.
 
 # Previous working experiences:
-Math tutor at Master Maths Glenanda.
+Car mechanic, Administor at Taipie Liason office, Tutor Assistant for COS226.
 
-# Determined
-# Hard Working
-# Diligent
-# Eager to Learn.
+# Passionate
+# Dilligent
+# Attentive
+# Focused
