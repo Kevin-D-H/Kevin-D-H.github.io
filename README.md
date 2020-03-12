@@ -1,4 +1,4 @@
-# Hello I am Kevin Huang (u15026681)\
+# Hello I am Kevin Huang (u15026681)
 
 # Current Position:
 Full time Student and member and leader of the integration group for Team Omega.
